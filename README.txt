@@ -1,7 +1,7 @@
 # Final
 Pato, Axel y Eri
 
-Después de entender el funcionamiento del MQTT visto en clase de esta semana Tec, primero iniciamos una instancia desde la AWS (Amazon Web Services), activamos el mosquitto y creamos un tópico en el cual se podrán comunicar los usuarios por texto. Después de tenerlo habilitado, descargamos el MQTT Explorer desde la web para poder conectarnos a la instancia, agregamos la dirección IP dada por la instancia. Finalmente dimos de alta un nombre al tópico que lo ocuparemos durante todo el proyecto para mantener la comunicación.
+Después de entender el funcionamiento del MQTT, primero iniciamos una instancia desde la AWS (Amazon Web Services), activamos el mosquitto y creamos un tópico en el cual se podrán comunicar los usuarios por texto. Después de tenerlo habilitado, descargamos el MQTT Explorer desde la web para poder conectarnos a la instancia, agregamos la dirección IP dada por la instancia. Finalmente dimos de alta un nombre al tópico que lo ocuparemos durante todo el proyecto para mantener la comunicación.
 
 Este es un programa de Python que implementa un cliente de chat que se conecta a un servidor MQTT, lo que permite a los usuarios comunicarse entre sí. El programa importa las bibliotecas threading y paho.mqtt.client.
 
