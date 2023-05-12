@@ -1,5 +1,7 @@
 # Final
-Pato, Axel y Eri
+Edgar Patricio Olalde Sepulveda A01424082
+Axel Godoy Barios A01425316
+Erika Nohemi Garcia Martinez A01425330
 ​​Este es un programa de Python que implementa un cliente de chat que se conecta a un servidor MQTT, lo que permite a los usuarios comunicarse entre sí. El programa importa las bibliotecas threading y paho.mqtt.client.
 
 El programa en primer lugar esta configurando el número de puerto en 1883 y el nombre del tema en "conversacionTeletubbies". El usuario es bienvenido al chat, se le solicita que ingrese su nombre y la primera letra de su nombre.
